@@ -30,7 +30,7 @@ Use len() to find the total words.
 Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
-```
+```python
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: s.thirisha
 RegisterNumber: 22001920
